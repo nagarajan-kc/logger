@@ -1,0 +1,37 @@
+2023-02-15 10:06:07 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 12072 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-15 10:06:07 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-15 10:06:08 [main] INFO  : Tomcat initialized with port(s): 8080 (http)
+2023-02-15 10:06:08 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-15 10:06:08 [main] INFO  : Starting service [Tomcat]
+2023-02-15 10:06:08 [main] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-15 10:06:09 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2023-02-15 10:06:09 [main] INFO  : Root WebApplicationContext: initialization completed in 1822 ms
+2023-02-15 10:06:09 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-15 10:06:09 [main] INFO  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-15 10:06:09 [main] INFO  : Started LoggerApplication in 2.97 seconds (JVM running for 3.706)
+2023-02-15 10:06:20 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-15 10:06:20 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2023-02-15 10:06:20 [http-nio-8080-exec-1] INFO  : Completed initialization in 0 ms
+2023-02-15 10:06:21 [http-nio-8080-exec-1] INFO  : Info demo
+2023-02-15 10:06:39 [http-nio-8080-exec-5] INFO  : Info demo
+2023-02-15 10:20:04 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 2940 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-15 10:20:04 [main] DEBUG : Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 10:20:04 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-15 10:20:06 [main] INFO  : Started LoggerApplication in 2.53 seconds (JVM running for 3.314)
+2023-02-15 10:20:13 [http-nio-8080-exec-1] DEBUG : hi hello
+2023-02-15 10:20:14 [http-nio-8080-exec-2] DEBUG : hi hello
+2023-02-15 10:29:54 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 19272 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-15 10:29:54 [main] DEBUG : Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 10:29:54 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-15 10:29:57 [main] INFO  : Started LoggerApplication in 2.815 seconds (JVM running for 3.481)
+2023-02-15 10:30:04 [http-nio-8080-exec-1] INFO  : Info demo
+2023-02-15 10:30:04 [http-nio-8080-exec-1] ERROR : demoERROR on the file  
+2023-02-15 10:30:04 [http-nio-8080-exec-1] DEBUG : hi hello
+2023-02-15 10:30:45 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 13764 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-15 10:30:45 [main] DEBUG : Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-15 10:30:45 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-15 10:30:48 [main] INFO  : Started LoggerApplication in 2.786 seconds (JVM running for 3.606)
+2023-02-15 10:30:49 [http-nio-8080-exec-1] INFO  : Info demo
+2023-02-15 10:30:49 [http-nio-8080-exec-1] ERROR : demoERROR on the file  
+2023-02-15 10:30:49 [http-nio-8080-exec-1] DEBUG : hi hello
+2023-02-15 10:30:49 [http-nio-8080-exec-1] TRACE : trace method of logger

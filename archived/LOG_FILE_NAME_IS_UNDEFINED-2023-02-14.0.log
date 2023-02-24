@@ -1,0 +1,59 @@
+2023-02-14 17:28:15 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 3496 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-14 17:28:15 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 17:28:16 [main] INFO  : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 17:28:16 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 17:28:16 [main] INFO  : Starting service [Tomcat]
+2023-02-14 17:28:16 [main] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-14 17:28:17 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2023-02-14 17:28:17 [main] INFO  : Root WebApplicationContext: initialization completed in 1043 ms
+2023-02-14 17:28:17 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 17:28:17 [main] INFO  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 17:28:17 [main] INFO  : Started LoggerApplication in 1.836 seconds (JVM running for 2.327)
+2023-02-14 17:28:56 [http-nio-8080-exec-2] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 17:28:56 [http-nio-8080-exec-2] INFO  : Initializing Servlet 'dispatcherServlet'
+2023-02-14 17:28:56 [http-nio-8080-exec-2] INFO  : Completed initialization in 0 ms
+2023-02-14 17:28:56 [http-nio-8080-exec-2] INFO  : Info demo
+2023-02-14 17:38:37 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 6292 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-14 17:38:37 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 17:38:38 [main] INFO  : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 17:38:38 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 17:38:38 [main] INFO  : Starting service [Tomcat]
+2023-02-14 17:38:38 [main] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-14 17:38:39 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2023-02-14 17:38:39 [main] INFO  : Root WebApplicationContext: initialization completed in 1177 ms
+2023-02-14 17:38:39 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 17:38:39 [main] INFO  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 17:38:39 [main] INFO  : Started LoggerApplication in 1.964 seconds (JVM running for 3.487)
+2023-02-14 17:38:43 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 17:38:43 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2023-02-14 17:38:43 [http-nio-8080-exec-1] INFO  : Completed initialization in 1 ms
+2023-02-14 17:38:43 [http-nio-8080-exec-1] INFO  : Info demo
+2023-02-14 18:14:17 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 8180 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-14 18:14:17 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 18:14:18 [main] INFO  : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 18:14:18 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 18:14:18 [main] INFO  : Starting service [Tomcat]
+2023-02-14 18:14:18 [main] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-14 18:14:19 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2023-02-14 18:14:19 [main] INFO  : Root WebApplicationContext: initialization completed in 1507 ms
+2023-02-14 18:14:19 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 18:14:19 [main] INFO  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 18:14:19 [main] INFO  : Started LoggerApplication in 2.522 seconds (JVM running for 3.186)
+2023-02-14 18:14:25 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 18:14:25 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2023-02-14 18:14:25 [http-nio-8080-exec-1] INFO  : Completed initialization in 10 ms
+2023-02-14 18:27:43 [main] INFO  : Starting LoggerApplication using Java 1.8.0_74 on LAPTOP-2I8SA6MP with PID 24556 (C:\spring\logger\target\classes started by 91733 in C:\spring\logger)
+2023-02-14 18:27:43 [main] INFO  : No active profile set, falling back to 1 default profile: "default"
+2023-02-14 18:27:45 [main] INFO  : Tomcat initialized with port(s): 8080 (http)
+2023-02-14 18:27:45 [main] INFO  : Initializing ProtocolHandler ["http-nio-8080"]
+2023-02-14 18:27:45 [main] INFO  : Starting service [Tomcat]
+2023-02-14 18:27:45 [main] INFO  : Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-14 18:27:45 [main] INFO  : Initializing Spring embedded WebApplicationContext
+2023-02-14 18:27:45 [main] INFO  : Root WebApplicationContext: initialization completed in 1659 ms
+2023-02-14 18:27:45 [main] INFO  : Starting ProtocolHandler ["http-nio-8080"]
+2023-02-14 18:27:45 [main] INFO  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-14 18:27:45 [main] INFO  : Started LoggerApplication in 2.828 seconds (JVM running for 4.464)
+2023-02-14 18:27:51 [http-nio-8080-exec-1] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-14 18:27:51 [http-nio-8080-exec-1] INFO  : Initializing Servlet 'dispatcherServlet'
+2023-02-14 18:27:51 [http-nio-8080-exec-1] INFO  : Completed initialization in 14 ms
+2023-02-14 18:27:51 [http-nio-8080-exec-1] INFO  : Info demo
